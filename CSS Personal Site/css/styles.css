@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Eagle Lake', cursive;
+  font-size: 3.5rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  color: #66BFBF;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.btm-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.computerPic {
+  border-radius: 50%;
+}
+
+.profilePic {
+  border-radius: 50%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.btm-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
